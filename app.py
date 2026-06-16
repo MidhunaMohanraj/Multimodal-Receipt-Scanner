@@ -6,7 +6,7 @@ import csv
 import io
 from PIL import Image
   
-st.set_page_config(
+st.set_page_config(   
     page_title="AI Receipt Scanner",
     page_icon="🧾",
     layout="centered"
