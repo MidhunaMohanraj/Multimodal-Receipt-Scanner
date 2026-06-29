@@ -9,7 +9,7 @@ from PIL import Image
 st.set_page_config(   
     page_title="AI Receipt Scanner",
     page_icon="🧾",
-    layout="centered"
+    layout="centered"    
 )
 
 st.markdown("""
