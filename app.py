@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"    
 )
 
-st.markdown("""
+st.markdown("""  
 <style>
     .main { max-width: 720px; margin: 0 auto; }
     .receipt-header { font-size: 2rem; font-weight: 700; margin-bottom: 0; }
