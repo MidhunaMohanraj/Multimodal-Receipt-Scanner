@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon="🧾",  
     layout="centered"    
 )
-  
+    
 st.markdown("""    
 <style>
     .main { max-width: 720px; margin: 0 auto; }
