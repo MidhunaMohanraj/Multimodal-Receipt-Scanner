@@ -10,7 +10,7 @@ st.set_page_config(
     page_title="AI Receipt Scanner",
     page_icon="🧾",  
     layout="centered"    
-)
+) 
 st.markdown("""    
 <style>
     .main { max-width: 720px; margin: 0 auto; }
