@@ -4,7 +4,7 @@ import base64
 import json
 import csv
 import io
-from PIL import Image
+from PIL import Image  
   
 st.set_page_config(   
     page_title="AI Receipt Scanner",
